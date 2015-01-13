@@ -1,4 +1,4 @@
-package com.regex;
+package sort;
 
 public class Quick_Sort {
 	public static void QuickSort(int low, int high, int num[]) {
